@@ -1,6 +1,7 @@
 # eBookToPdf
 E-Book PDF 추출 프로그램<br /><br />
 제작 과정 : https://eastshine12.tistory.com/55
+추가 참고 : https://infinitt.tistory.com/291
 <br /><br /><br />
 
 

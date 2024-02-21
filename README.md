@@ -28,3 +28,6 @@ eBookToPdf/dist/ebook_to_pdf.exe
 3. 반드시 키보드 오른쪽 방향키를 통해 다음 페이지 전환이 되어야 한다.
 4. 페이지 수가 많을 경우 PDF 용량이 꽤 되므로 HDD 용량이 여유가 있어야 한다.
 5. PDF 재생성 오류 시 프로그램을 재실행한다.
+
+# 태블릿 화면 PC연결 미러링 후 캡쳐 
+1. https://github.com/Genymobile/scrcpy/releases?page=2을 활용
